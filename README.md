@@ -19,12 +19,12 @@ To analyze end-to-end Social Media Campaign Performance  data and develop an int
 •  How does revenue compare to profit monthly?
 
 ## Process 
-#🔹 1. Problem Identification
+# 🔹 1. Problem Identification
 •	Identified the need to analyze Socia media  marketing performance.
 •	Defined key objectives: measure Revenue, Profit, ROI, ROAS, CTR, and campaign effectiveness.
 •	Determined stakeholders: marketing managers and executives.
 ________________________________________
-#🔹 2. Data Collection
+# 🔹 2. Data Collection
 •	Collected campaign-level marketing data.
 •	Data included:
 o	Campaign Type
@@ -37,21 +37,21 @@ o	Customer Segment
 o	Location
 o	Date
 ________________________________________
-#🔹 3. Data Cleaning & Preparation
+# 🔹 3. Data Cleaning & Preparation
 •	Removed duplicate records.
 •	Handled missing/null values.
 •	Standardized column names and formats.
 •	Converted date columns into proper date format.
 •	Created calculated fields where necessary.
 ________________________________________
-#🔹 4. Data Modeling (Power BI)
+# 🔹 4. Data Modeling (Power BI)
 •	Designed a Star Schema Model:
 o	Fact Table → Campaign Performance Data
 o	Dimension Tables → Date, Channel, Campaign Type, Location, Customer Segment
 •	Created relationships between tables.
 •	Optimized data model for performance.
 ________________________________________
-#🔹 5. KPI Creation (Using DAX)
+# 🔹 5. KPI Creation (Using DAX)
 Created calculated measures such as:
 •	Total Revenue
 •	Total Profit
@@ -63,7 +63,7 @@ Created calculated measures such as:
 •	Traffic Growth %
 •	Conversion Rate
 ________________________________________
-#🔹 6. Dashboard Development
+# 🔹 6. Dashboard Development
 Built multiple interactive dashboards:
 •	Executive Overview Dashboard
 •	Campaign Performance Dashboard
@@ -78,7 +78,7 @@ Added:
 •	Funnel chart
 •	Map visualization
 ________________________________________
-#🔹 7. Data Analysis & Insight Generation
+# 🔹 7. Data Analysis & Insight Generation
 •	Compared campaign profitability.
 •	Identified top-performing channels.
 •	Analyzed traffic funnel efficiency.
@@ -86,7 +86,7 @@ ________________________________________
 •	Studied monthly and quarterly growth trends.
 •	Identified high-performing geographic regions.
 ________________________________________
-#🔹 8. Business Recommendations
+# 🔹 8. Business Recommendations
 •	Scale high-ROI campaigns (Influencer & Search).
 •	Optimize low-performing channels.
 •	Focus on high-conversion segments (Foodies, Tech Enthusiasts).

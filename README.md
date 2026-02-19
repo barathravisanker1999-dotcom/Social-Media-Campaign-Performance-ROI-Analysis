@@ -1,2 +1,3 @@
-# Social-Media-Campaign-Performance-ROI-Analysis
-This project analyzes end-to-end digital marketing performance using Power BI. Campaign, channel, traffic, and customer segment datasets were integrated to create interactive dashboards that provide visibility into marketing spend, profitability drivers, and ROI performance.
+#Social Media Campaign Performance & ROI Analysis
+##Project Objective
+To analyze end-to-end Social Media Campaign Performance  data and develop an interactive Power BI dashboard that identifies revenue drivers, campaign effectiveness, channel profitability, and customer segment performance to support data-driven marketing decisions.

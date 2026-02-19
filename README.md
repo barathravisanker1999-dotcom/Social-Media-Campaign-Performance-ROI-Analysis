@@ -6,92 +6,92 @@ To analyze end-to-end Social Media Campaign Performance  data and develop an int
 - <a href= "https://github.com/barathravisanker1999-dotcom/Social-Media-Campaign-Performance-ROI-Analysis/blob/main/marketing_campaign_dataset.zip">Dataset</a>
 
 ## Question 
-•  What is the total revenue generated?
-•  What is the total ad spend?
-•  Which campaign type generated the highest revenue?
-•  What is the total number of impressions?
-•  What is the total number of clicks?
-•  What is the acquisition cost?
-•  What is the CPC (Cost per Click)?
-•  Which channel generates the highest revenue?
-•  Which customer segment has the highest conversion rate?
-•  How does traffic trend across months?
-•  How does revenue compare to profit monthly?
+- What is the total revenue generated?
+-  What is the total ad spend?
+-  Which campaign type generated the highest revenue?
+-  What is the total number of impressions?
+-  What is the total number of clicks?
+-  What is the acquisition cost?
+-  What is the CPC (Cost per Click)?
+-  Which channel generates the highest revenue?
+-  Which customer segment has the highest conversion rate?
+-  How does traffic trend across months?
+-  How does revenue compare to profit monthly?
 
 ## Process 
 ###  1. Problem Identification
-•	Identified the need to analyze Socia media  marketing performance.
-•	Defined key objectives: measure Revenue, Profit, ROI, ROAS, CTR, and campaign effectiveness.
-•	Determined stakeholders: marketing managers and executives.
+-	Identified the need to analyze Socia media  marketing performance.
+-	Defined key objectives: measure Revenue, Profit, ROI, ROAS, CTR, and campaign effectiveness.
+-	Determined stakeholders: marketing managers and executives.
 ________________________________________
 ### 2. Data Collection
-•	Collected campaign-level marketing data.
-•	Data included:
-o	Campaign Type
-o	Channel Used
-o	Revenue
-o	Profit
-o	Ad Spend
-o	Impressions, Clicks, Conversions
-o	Customer Segment
-o	Location
-o	Date
+-	Collected campaign-level marketing data.
+-	Data included:
+- Campaign Type
+-	Channel Used
+-	Revenue
+-	Profit
+-	Ad Spend
+-	Impressions, Clicks, Conversions
+-	Customer Segment
+-	Location
+-	Date
 ________________________________________
 ### 3. Data Cleaning & Preparation
-•	Removed duplicate records.
-•	Handled missing/null values.
-•	Standardized column names and formats.
-•	Converted date columns into proper date format.
-•	Created calculated fields where necessary.
+-	Removed duplicate records.
+-	Handled missing/null values.
+-	Standardized column names and formats.
+-	Converted date columns into proper date format.
+-	Created calculated fields where necessary.
 ________________________________________
 ### 4. Data Modeling (Power BI)
-•	Designed a Star Schema Model:
-o	Fact Table → Campaign Performance Data
-o	Dimension Tables → Date, Channel, Campaign Type, Location, Customer Segment
-•	Created relationships between tables.
-•	Optimized data model for performance.
+-	Designed a Star Schema Model:
+-	Fact Table → Campaign Performance Data
+-	Dimension Tables → Date, Channel, Campaign Type, Location, Customer Segment
+-	Created relationships between tables.
+-	Optimized data model for performance.
 ________________________________________
 ### 5. KPI Creation (Using DAX)
 Created calculated measures such as:
-•	Total Revenue
-•	Total Profit
-•	ROI %
-•	ROAS
-•	CTR %
-•	CPC
-•	CPM
-•	Traffic Growth %
-•	Conversion Rate
+-	Total Revenue
+-	Total Profit
+-	ROI %
+-	ROAS
+-	CTR %
+-	CPC
+-	CPM
+-	Traffic Growth %
+-	Conversion Rate
 ________________________________________
 ### 6. Dashboard Development
 Built multiple interactive dashboards:
-•	Executive Overview Dashboard
-•	Campaign Performance Dashboard
-•	Traffic & Engagement Dashboard
-•	Cost, ROI & Profitability Dashboard
-•	Audience & Channel Performance Dashboard
-•	Growth & Trend Analysis Dashboard
+-	Executive Overview Dashboard
+-	Campaign Performance Dashboard
+-	Traffic & Engagement Dashboard
+-	Cost, ROI & Profitability Dashboard
+-	Audience & Channel Performance Dashboard
+-	Growth & Trend Analysis Dashboard
 Added:
-•	Slicers (Date, Company, Campaign Type, Location, Segment)
-•	Drill-down functionality
-•	KPI cards
-•	Funnel chart
-•	Map visualization
+-	Slicers (Date, Company, Campaign Type, Location, Segment)
+-	Drill-down functionality
+-	KPI cards
+-	Funnel chart
+-	Map visualization
 ________________________________________
 ### 7. Data Analysis & Insight Generation
-•	Compared campaign profitability.
-•	Identified top-performing channels.
-•	Analyzed traffic funnel efficiency.
-•	Evaluated audience segment conversion.
-•	Studied monthly and quarterly growth trends.
-•	Identified high-performing geographic regions.
+-	Compared campaign profitability.
+-	Identified top-performing channels.
+-	Analyzed traffic funnel efficiency.
+-	Evaluated audience segment conversion.
+-	Studied monthly and quarterly growth trends.
+-	Identified high-performing geographic regions.
 ________________________________________
 ### 8. Business Recommendations
-•	Scale high-ROI campaigns (Influencer & Search).
-•	Optimize low-performing channels.
-•	Focus on high-conversion segments (Foodies, Tech Enthusiasts).
-•	Improve geo-targeted campaigns.
-•	Implement KPI monitoring for continuous improvement.
+-	Scale high-ROI campaigns (Influencer & Search).
+-	Optimize low-performing channels.
+-	Focus on high-conversion segments (Foodies, Tech Enthusiasts).
+-	Improve geo-targeted campaigns.
+-	Implement KPI monitoring for continuous improvement.
 
 ## DashboardS
 
